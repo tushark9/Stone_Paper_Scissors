@@ -13,7 +13,7 @@ A simple implementation of the classic Stone Paper Scissors game using HTML, CSS
 
 ## Demo
 
-You can play the game 
+You can play the game https://tushark9.github.io/Stone_Paper_Scissors/
 
 ## Features
 
